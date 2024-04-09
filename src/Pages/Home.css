@@ -1,0 +1,34 @@
+.home {
+  /* margin: auto 0px */
+}
+
+.home h1 {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 60px;
+  margin-top: 80px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.home p {
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.home button {
+  margin-left: 45%;
+  width: 162px;
+  height: 50px;
+  background: cadetblue;
+  color: white;
+  border-radius: 6px;
+}
